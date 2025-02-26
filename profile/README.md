@@ -10,7 +10,8 @@ LIG 넥스원 The SSEN 임베디드 SW 스쿨 알고리즘 스터디 입니다.
 ## Problem
 - [코딩테스트 대비 문제집 with Baekjoon](https://github.com/tony9402/baekjoon)
 - [알고리즘별 문제집](https://www.acmicpc.net/workbook/by/BaaaaaaaaaaarkingDog)
-<br>  
+<br>
+
 ## Rules
 - 
 
@@ -41,7 +42,7 @@ LIG 넥스원 The SSEN 임베디드 SW 스쿨 알고리즘 스터디 입니다.
             <br />
             <a href="https://github.com/sepose">sepose</a>
        </td>
-        <td height="140px"> <a href="https://solved.ac/"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=" /></a> </td>
+        <td height="140px"> <a href="https://solved.ac/Sepose"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Sepose" /></a> </td>
     </tr>
     <tr>
         <td height="140px">             
@@ -49,6 +50,6 @@ LIG 넥스원 The SSEN 임베디드 SW 스쿨 알고리즘 스터디 입니다.
             <br />
             <a href="https://github.com/whduddn">whduddn</a>
        </td>
-        <td height="140px"> <a href="https://solved.ac/"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=" /></a>  </td>
+        <td height="140px"> <a href="https://solved.ac/id_mullo_haji"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=id_mullo_haji" /></a>  </td>
     </tr>
 </table>
