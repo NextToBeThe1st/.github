@@ -42,7 +42,7 @@ LIG 넥스원 The SSEN 임베디드 SW 스쿨 알고리즘 스터디 입니다.
             <br />
             <a href="https://github.com/sepose">sepose</a>
        </td>
-        <td height="140px"> <a href="https://solved.ac/Sepose"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=Sepose" /></a> </td>
+        <td height="140px"> <a href="https://solved.ac/Sepose"><img height="140px" width="275px" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=well77" /></a> </td>
     </tr>
     <tr>
         <td height="140px">             
